@@ -1,0 +1,6 @@
+project			= "dream11-hack2023-team1"
+region			= "asia-south1"
+zone			= "asia-south1-a"
+folder			= "91958163944"
+organization	= "641067203402"
+billing-account	= "0144C2-0889E7-23B95D"
