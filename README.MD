@@ -17,17 +17,17 @@ folder			= "91958163943"<br />
 organization	= "641067203401"<br />
 billing-account	= "0144C2-0889E7-23B95C"<br />
 <br />
-Step 2:<br />
+<b>Step 2:</b><br />
 Provide the project names in input.csv file as below<br />
 dream11-hack2023-team4<br />
 dream11-hack2023-team5<br />
 <br />
-Step 3:<br />
+<b>Step 3:</b><br />
 After that run the below command<br />
 <br />
 chmod +x create.sh<br />
 <br />
-Step 4:<br />
+<b>Step 4:</b><br />
 After than execute the script to create the projects.<br />
 <br />
 ./create.sh
