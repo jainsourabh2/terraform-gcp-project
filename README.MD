@@ -1,4 +1,4 @@
-Step 1:<br />
+<b>Step 1:</b><br />
 Please edit the terraform.tfvars file to make the necessary changes.<br />
 <br />
 project			= "name of the project that needs to be created"<br />
