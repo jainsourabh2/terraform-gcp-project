@@ -1,16 +1,11 @@
 Please edit the terraform.tfvars file to make the necessary changes.
 
-project			= "name of the project that needs to be created"
-
-region			= "region in which this needs to be created"
-
-zone			= "zone in which this needs to be created"
-
-folder			= "folder id in which this project needs to be created"
-
-organization	= "organization id in which this project is to be created"
-
-billing-account	= "billing account id"
+project			= "name of the project that needs to be created"<br />
+region			= "region in which this needs to be created"<br />
+zone			= "zone in which this needs to be created"<br />
+folder			= "folder id in which this project needs to be created"<br />
+organization	= "organization id in which this project is to be created"<br />
+billing-account	= "billing account id"<br />
 
 The values should look like below:
 
