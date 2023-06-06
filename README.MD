@@ -1,3 +1,4 @@
+Step 1:<br />
 Please edit the terraform.tfvars file to make the necessary changes.<br />
 <br />
 project			= "name of the project that needs to be created"<br />
@@ -16,14 +17,17 @@ folder			= "91958163943"<br />
 organization	= "641067203401"<br />
 billing-account	= "0144C2-0889E7-23B95C"<br />
 <br />
+Step 2:<br />
 Provide the project names in input.csv file as below<br />
 dream11-hack2023-team4<br />
 dream11-hack2023-team5<br />
 <br />
+Step 3:<br />
 After that run the below command<br />
 <br />
 chmod +x create.sh<br />
 <br />
+Step 4:<br />
 After than execute the script to create the projects.<br />
 <br />
 ./create.sh
