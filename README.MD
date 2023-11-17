@@ -28,6 +28,11 @@ After that run the below command<br />
 chmod +x create.sh<br />
 <br />
 <b>Step 4:</b><br />
+After that run the below command<br />
+<br />
+terraform init
+<br />
+<b>Step 5:</b><br />
 After than execute the script to create the projects.<br />
 <br />
 ./create.sh
